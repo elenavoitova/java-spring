@@ -12,7 +12,6 @@ import java.util.List;
 
 @Builder
 @Data
-@AllArgsConstructor
 public class Customer {
     private Long id;
     private String name;
